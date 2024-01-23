@@ -1,0 +1,154 @@
+---
+title: "LINEAR ALGEBRA IMS"
+author: "Sheilamay Locading"
+format: html
+editor: visual
+---
+
+## Linear Algebra
+
+Linear algebra is a branch of mathematics that deals with linear equations and their representations in the vector space using matrices. In other words, linear algebra is the study of linear functions and vectors. It is one of the most central topics of mathematics. Most modern geometrical concepts are based on linear algebra.
+
+Linear algebra facilitates the modeling of many natural phenomena and hence, is an integral part of engineering and physics. Linear equations, matrices, and vector spaces are the most important components of this subject. In this article, we will learn more about linear algebra and the various associated topics.
+
+## What is Linear Algebra?
+
+Linear algebra can be defined as a branch of mathematics that deals with the study of linear functions in vector spaces. When information related to linear functions is presented in an organized form then it results in a matrix. Thus, linear algebra is concerned with vector spaces, vectors, linear functions, the system of linear equations, and matrices. These concepts are a prerequisite for sister topics such as geometry and functional analysis.
+
+## Definition
+
+The branch of mathematics that deals with vectors, matrices, finite or infinite dimensions as well as a linear mapping between such spaces is defined as linear algebra. It is used in both pure and applied mathematics along with different technical forms such as physics, engineering, natural sciences, etc.
+
+## Branches of Linear Algebra
+
+Linear algebra can be categorized into three branches depending upon the level of difficulty and the kind of topics that are encompassed within each. These are elementary, advanced, and applied linear algebra. Each branch covers different aspects of matrices, vectors, and linear functions.
+
+## Elementary Linear Algebra
+
+Elementary linear algebra introduces students to the basics of linear algebra. This includes simple matrix operations, various computations that can be done on a system of linear equations, and certain aspects of vectors. Some important terms associated with elementary linear algebra are given below:
+
+**Scalars** - A scalar is a quantity that only has magnitude and not direction. It is an element that is used to define a vector space. In linear algebra, scalars are usually real numbers.
+
+**Vectors** - A vector is an element in a vector space. It is a quantity that can describe both the direction and magnitude of an element.
+
+**Vector Space** - The vector space consists of vectors that may be added together and multiplied by scalars.
+
+**Matrix** - A matrix is a rectangular array wherein the information is organized in the form of rows and columns. Most linear algebra properties can be expressed in terms of a matrix.
+
+**Matrix Operations** - These are simple arithmetic operations such as addition, subtraction, and multiplication that can be conducted on matrices.
+
+## Advanced Linear Algebra
+
+Once the basics of linear algebra have been introduced to students the focus shifts on more advanced concepts related to linear equations, vectors, and matrices. Certain important terms that are used in advanced linear algebra are as follows:
+
+**Linear Transformations** - The transformation of a function from one vector space to another by preserving the linear structure of each vector space.
+
+**Inverse of a Matrix** - When an inverse of a matrix is multiplied with the given original matrix then the resultant will be the identity matrix. Thus $$ A^-1 A = 1 $$
+
+**Eigenvector** - An eigenvector is a non-zero vector that changes by a scalar factor (eigenvalue) when a linear transformation is applied to it.
+
+**Linear Map** - It is a type of mapping that preserves vector addition and vector multiplication.
+
+## Applied Linear Algebra
+
+Applied linear algebra is usually introduced to students at a graduate level in fields of applied mathematics, engineering, and physics. This branch of algebra is driven towards integrating the concepts of elementary and advanced linear algebra with their practical implications. Topics such as the norm of a vector, QR factorization, Schur's complement of a matrix, etc., fall under this branch of linear algebra.
+
+## Linear Algebra Topics
+
+The topics that come under linear algebra can be classified into three broad categories. These are linear equations, matrices, and vectors. All these three categories are interlinked and need to be understood well in order to master linear algebra. The topics that fall under each category are given below.
+
+## Linear Equations
+
+A linear equation is an equation that has the standard form $$a_{1} x_{1} + a_{2} x_{2} + ...+ a_{n} x_{n} $$
+
+It is the fundamental component of linear algebra. The topics covered under linear equations are as follows:
+
+✅Linear Equations in One variable
+
+✅Linear Equations in Two Variables
+
+✅Simultaneous Linear Equations
+
+✅Solving Linear Equations
+
+✅Solutions of a Linear Equation
+
+✅Graphing Linear Equations
+
+✅Applications of Linear equations
+
+✅Straight Line
+
+## Vectors
+
+In linear algebra, there can be several operations that can be performed on vectors such as multiplication, addition, etc. Vectors can be used to describe quantities such as the velocity of moving objects. Some crucial topics encompassed under vectors are as follows:
+
+✅Types of Vectors
+
+✅Dot Product
+
+✅Cross Product
+
+✅Addition of Vectors
+
+## Matrices
+
+A matrix is used to organize data in the form of a rectangular array. It can be represented as $$A_{m\times n}$$ Here, m represents the number of rows and n denotes the number of columns in the matrix. In linear algebra, a matrix can be used to express linear equations in a more compact manner. The topics that are covered under the scope of matrices are as follows:
+
+✅Matrix Operations
+
+✅Determinant
+
+✅Transpose of a Matrix
+
+✅Types of a Matrix
+
+## Linear Algebra Formula
+
+Formulas form an important part of linear algebra as they help to simplify computations. The key to solving any problem in linear algebra is to understand the formulas and associated concepts rather than memorize them. The important linear algebra formulas can be broken down into 3 categories, namely, linear equations, vectors, and matrices.
+
+1.  **Linear Equations:** The important linear equation formulas are listed as follows:
+
+a\. General form: ax + by = c
+
+b\. Slope Intercept Form: y = mx + b
+
+c\. a + b = b + a
+
+d\. a + 0 = 0 + a = a
+
+2.  **Vectors:** If there are two vectors $$\overrightarrow{u}= (u_{1}, u_{2}, u_{3})$$ and $$\overrightarrow{v} = (v_{1}, v_{2}, v_{3})$$ then the important vector formulas associated with linear algebra are given below.
+
+$$\overrightarrow{u} + \overrightarrow{v} = (u_{1}+v_{1}, u_{2}+v_{2}, u_{3}+v_{3})$$
+
+$$\overrightarrow{u} - \overrightarrow{v} = (u_{1}-v_{1}, u_{2}-v_{2}, u_{3}-v_{3})$$
+
+$$\left \| u \right \| = \sqrt{u_{1}^{2} + u_{2}^{2} + u_{3}^{2}}$$
+
+$$\overrightarrow{u}.\overrightarrow{v} = u_{1}v_{1} + u_{2}v_{2} + u_{3}v_{3}$$
+
+$$\overrightarrow{u}\times \overrightarrow{v} = (u_{2}v_{3}-u_{3}v_{2}, u_{3}v_{1}-u_{1}v_{3}, u_{1}v_{2}-u_{2}v_{1})$$
+
+3.  **Matrix**: If there are two square matrices given by A and B where the elements are $$a_{ij}$$ and $$b_{ij}$$ respectively, then the following important formulas are used in linear algebra: ![](linear-algebra-1635912215.png)
+
+$$A^-1 A= 1$$
+
+$$C = A + B, where $$c\_{ij} = a\_{ij} + b\_{ij}$$
+
+$$C = A - B, where $$c_{ij} = a_{ij} - b_{ij}$$
+
+$$kA = ka_{ij}$$
+
+$$C = AB = \sum_{k = 1}^{n}a_{ik}b_{kj}$$
+
+## Linear Algebra and its Applications
+
+Linear algebra is used in almost every field. Simple algorithms also make use of linear algebra topics such as matrices. Some of the applications of linear algebra are given as follows:
+
+**Signal Processing** - Linear algebra is used in encoding and manipulating signals such as audio and video signals. Furthermore, it is required in the analysis of such signals.
+
+**Linear Programming** - It is an optimizing technique that is used to determine the best outcome of a linear function.
+
+**Computer Science** - Data scientists use several linear algebra algorithms to solve complicated problems.
+
+**Prediction Algorithms** - Prediction algorithms use linear models that are developed using concepts of linear algebra.
