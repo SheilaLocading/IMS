@@ -1,7 +1,7 @@
 ---
-title: "LINEAR ALGEBRA IMS"
-author: "Sheilamay Locading"
-format: html
+title: "Linear Algebra PPT"
+author: "Sheila Locading"
+format: pptx
 editor: visual
 ---
 
@@ -152,3 +152,4 @@ Linear algebra is used in almost every field. Simple algorithms also make use of
 **Computer Science** - Data scientists use several linear algebra algorithms to solve complicated problems.
 
 **Prediction Algorithms** - Prediction algorithms use linear models that are developed using concepts of linear algebra.
+
